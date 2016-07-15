@@ -1,67 +1,95 @@
 #headerBG{
-  background-color :gray;
-  height: 10%;
-  padding: 0;
+  background-color :white;
+  font-family: 'Bungee Shade';
 
-}
-#MathText{
-  padding-top: 50%;
+text-align: center;
+font-size: 200%;
 }
 #SoftwareEngineering{
-    background-color :green;
-      text-align: center;
-      height: 30%;
+    background-color :#00FC5A;
+
 }
-#SoftText{
+#softText{
+  text-align: center;
   padding-top: 10%;
+  padding-bottom: 10%;
+  font-family: 'Bungee';
 
 }
 
 #Math{
-     background-color : blue;
-      text-align: center;
-      height: 30%;
+     background-color : #C8FF00;
+
+
+
+}
+#mathText{
+  text-align: center;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  text-align: center;
+  font-family: 'Bungee';
 }
 
 
 #Contact{
-  background-color :pink;
-      text-align: center;
-      height:15%;
+  background-color :00FC5A;
+  text-align: center;
 
 }
 
+#contactText{
+  text-align: center;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  font-family: 'Bungee';
+
+}
 #Blog{
-  background-color :purple;
-      text-align: center;
-      height:15%;
-}
-#Links{
-   background-color :red;
-     text-align: center;
-      height:15%;
-}
+  background-color : #C8FF00;
 
+}
+#blogText{
+  text-align: center;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  text-align: center;
+  font-family: 'Bungee';
+
+}
 #Fun{
-
-  background-color :yellow;
+  background-color :#00FC5A;
       text-align: center;
 
 }
 
+#funText{
+  padding-top: 5%;
+  padding-bottom:: 5%;
+  font-family: 'Bungee';
 
-
-
-#Contact{
-  background-color :pink;
-      text-align: center;
 
 }
+
 
 
 
 #Policies{
-  background-color :orange;
+  background-color :#00FC5A;
       text-align: center;
+
+}
+#policyText{
+  font-family: 'Bungee';
+
+}
+
+#Links{
+   background-color :#CEFF03;
+     text-align: center;
+
+}
+#linkText{
+  font-family: 'Bungee inline';
 
 }
