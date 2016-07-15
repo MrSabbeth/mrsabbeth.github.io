@@ -1,32 +1,49 @@
 #headerBG{
   background-color :gray;
+  height: 10%;
+  padding: 0;
+
+}
+#MathText{
+  padding-top: 50%;
 }
 #SoftwareEngineering{
     background-color :green;
       text-align: center;
+      height: 30%;
+}
+#SoftText{
+  padding-top: 10%;
 
 }
 
 #Math{
      background-color : blue;
       text-align: center;
-
+      height: 30%;
 }
 
 
 #Contact{
   background-color :pink;
       text-align: center;
+      height:15%;
 
 }
 
 #Blog{
   background-color :purple;
       text-align: center;
-
+      height:15%;
 }
+#Links{
+   background-color :red;
+     text-align: center;
+      height:15%;
+}
+
 #Fun{
-  
+
   background-color :yellow;
       text-align: center;
 
@@ -41,26 +58,10 @@
 
 }
 
-#Blog{
-  background-color :purple;
-      text-align: center;
 
-}
-#Fun{
-  
-  background-color :yellow;
-      text-align: center;
-
-}
 
 #Policies{
   background-color :orange;
       text-align: center;
-
-}
-
-#Links{
-   background-color :red;
-     text-align: center;
 
 }
