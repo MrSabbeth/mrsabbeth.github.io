@@ -3,7 +3,7 @@
   font-family: 'Bungee Shade';
 
 text-align: center;
-font-size: 200%;
+font-size: 300%;
 }
 #SoftwareEngineering{
     background-color :#FF007F;
@@ -33,15 +33,14 @@ font-size: 200%;
   color:white;
 }
 
-
-#Contact{
+#sevenSoftware{
   background-color :#CC2F09;
   text-align: center;
 
 
 }
 
-#contactText{
+#sevenSoftText{
   text-align: center;
   padding-top: 10%;
   padding-bottom: 10%;
@@ -51,6 +50,7 @@ font-size: 200%;
 }
 #Blog{
   background-color : #7ECC14;
+  padding-bottom: 4.2%;
 
 }
 #blogText{
@@ -80,8 +80,13 @@ color:white;
 
 
 #Policies{
-  background-color :#00FC5A;
+  background-color :#FF007F;
       text-align: center;
+  border-left: 5px solid black;
+  border-top: 5px solid black;
+    border-bottom: 5px solid black;
+  border-right: 2.5px solid black;
+
 
 }
 #policyText{
@@ -93,6 +98,10 @@ color:white;
 #Links{
    background-color :#CEFF03;
      text-align: center;
+     border-right: 5px solid black;
+     border-top: 5px solid black;
+       border-bottom: 5px solid black;
+     border-left: 2.5px solid black;
 
 
 }
