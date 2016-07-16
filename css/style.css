@@ -1,7 +1,6 @@
 #headerBG{
   background-color :white;
   font-family: 'Bungee Shade';
-
 text-align: center;
 font-size: 300%;
 }
@@ -12,26 +11,38 @@ font-size: 300%;
 #softText{
   text-align: center;
   padding-top: 10%;
-  padding-bottom: 10%;
+  padding-bottom: ;
   font-family: 'Bungee';
   color:white;
 
+}
+#sEngineering{
+  text-align: center;
+  font-family: 'Open Sans';
+  position: relative;
+color:white;
+font-size:140%
 }
 
 #Math{
      background-color : #82FF3F;
-
-
-
 }
+#math{
+  text-align: center;
+  font-family: 'Open Sans';
+  position: relative;
+color:white;
+font-size:140%
+}
+
 #mathText{
   text-align: center;
   padding-top: 10%;
-  padding-bottom: 10%;
   text-align: center;
   font-family: 'Bungee';
   color:white;
 }
+
 
 #sevenSoftware{
   background-color :#CC2F09;
@@ -50,7 +61,6 @@ font-size: 300%;
 }
 #Blog{
   background-color : #7ECC14;
-  padding-bottom: 4.2%;
 
 }
 #blogText{
@@ -82,10 +92,10 @@ color:white;
 #Policies{
   background-color :#FF007F;
       text-align: center;
-  border-left: 5px solid black;
-  border-top: 5px solid black;
-    border-bottom: 5px solid black;
-  border-right: 2.5px solid black;
+  border-left: 3px solid black;
+  border-top: 3px solid black;
+    border-bottom: 3px solid black;
+  border-right: 1.5px solid black;
 
 
 }
@@ -98,10 +108,10 @@ color:white;
 #Links{
    background-color :#CEFF03;
      text-align: center;
-     border-right: 5px solid black;
-     border-top: 5px solid black;
-       border-bottom: 5px solid black;
-     border-left: 2.5px solid black;
+     border-right: 3px solid black;
+     border-top: 3px solid black;
+       border-bottom: 3px solid black;
+     border-left: 1.5px solid black;
 
 
 }
