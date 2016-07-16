@@ -1,12 +1,24 @@
+/*.text_container {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 10px;
+    text-align: center;
+
+}*/
+
+
 #headerBG{
   background-color :white;
   font-family: 'Bungee Shade';
 text-align: center;
 font-size: 300%;
 }
+
 #SoftwareEngineering{
     background-color :#FF007F;//pink
-
+    margin: 0px;
+    padding:-100px;
 }
 #softText{
   text-align: center;
@@ -98,33 +110,33 @@ color:white;
 
 
 #Policies{
-  background-color :#FF007F;
+  background-color :white;
       text-align: center;
-  border-left: 3px solid black;
-  border-top: 3px solid black;
-    border-bottom: 3px solid black;
+  border-left: 2px solid black;
+  border-top: 2px solid black;
+    border-bottom: 2px solid black;
   border-right: 1.5px solid black;
 
 
 }
 #policyText{
   font-family: 'Bungee';
-  color:white;
+  color:#FF007F;
 
 }
 
 #Links{
-   background-color :#CEFF03;
+   background-color :white;
      text-align: center;
-     border-right: 3px solid black;
-     border-top: 3px solid black;
-       border-bottom: 3px solid black;
+     border-right: 2px solid black;
+     border-top: 2px solid black;
+       border-bottom: 2px solid black;
      border-left: 1.5px solid black;
 
 
 }
 #linkText{
   font-family: 'Bungee inline';
-  color:white;
+  color:#82FF3F;
 
 }
